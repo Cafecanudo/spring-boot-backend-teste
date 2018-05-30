@@ -3,8 +3,8 @@
 Estudo caso teste verificando ferramente Spring-Boot como linha de desenvolvimento para Eldoc-Analytics.
 
 ###Usando:
+
     MongoDB
-    
     Jersey(Jax-RS)
     Lombok
     Spring Boot
